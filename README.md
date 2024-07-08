@@ -7,18 +7,19 @@
 <p align="center">l introduce <b>joel bug bot</b>, a powerful simple WhatsApp bot </p>
 
 
-<p align="center">
-  <a href="https://github.com/jokathanjoka/JOEL-X-MD/edit/main/README.md#joel-joel-xmd">
-    
-  </a>
-</p>
     
  
-<p align="center"><img src="https://profile-counter.glitch.me/{KING JOEL}/count.svg" alt="JOEL BUG BOT:: Visitor's Count" /></p>
+ 
 
 
 
 ---
+
+
+
+
+
+## HOW TO DEPLOY JOEL BUG BOT
 
 
 ## 1.FIRST STEP 
