@@ -36,7 +36,7 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://appjsoncodes1-d8822de78520.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://joelpaircode-4469d56eeb3e.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
  
 
