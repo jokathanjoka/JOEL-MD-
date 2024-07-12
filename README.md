@@ -1,10 +1,10 @@
-##  JOEL BUG BOT
+## JOEL MD
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+joel+x+md+Created+by+joelkang'oma.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/0bc8a3f6e4e684addb141.jpg">
+ <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/b146c0862b7c69c12db35.jpg">
   
-<h1 align="center"> joel-tech  </h1> 
-<p align="center">l introduce <b>joel bug bot</b>, a powerful simple WhatsApp bot </p>
+</h1> 
+<p align="center">l introduce <b>joel md</b>, a powerful simple WhatsApp bot </p>
 
 
     
@@ -19,7 +19,7 @@
 
 
 
-## HOW TO DEPLOY JOEL BUG BOT
+## HOW TO DEPLOY JOEL MD
 
 
 ## 1.FIRST STEP 
